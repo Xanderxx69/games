@@ -28,7 +28,3 @@ This site is supposed to be simple yet extendable. You can edit this to your hea
 
 All the configuration is done in the `config` folder.
 - `games.json`: It contains the games' names, icons, and link.
-
-## To-Do
-- Make it easier to add games
-- Make a better README.md

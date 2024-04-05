@@ -705,6 +705,26 @@
     "title": "Web Retro Local"
   },
   {
+    "link": "projects/wheely/index.html",
+    "imgSrc": "projects/wheely/wheely.jpg",
+    "title": "Wheely"
+  },
+  {
+    "link": "projects/wheely2/index.html",
+    "imgSrc": "projects/wheely2/wheely-2.webp",
+    "title": "Wheely 2"
+  },
+  {
+    "link": "projects/wheely3/index.html",
+    "imgSrc": "projects/wheely3/wheely-3.png",
+    "title": "Wheely 3"
+  },
+  {
+    "link": "projects/wheely4/index.html",
+    "imgSrc": "projects/wheely4/wheely-4.webp",
+    "title": "Wheely 4"
+  },
+  {
     "link": "projects/wolf3d/index.html",
     "imgSrc": "projects/wolf3d/art/wolf3d.png",
     "title": "Wolfenstein 3D"

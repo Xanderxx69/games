@@ -24,6 +24,11 @@
     "imgSrc": "projects/achievementunlocked/achievementunlocked.png",
     "title": "Achievement Unlocked"
   },
+   {
+    "link": "projects/achievementunlocked2/index.html",
+    "imgSrc": "projects/achievementunlocked/achievementunlocked2.png",
+    "title": "Achievement Unlocked 2"
+  },
   {
     "link": "projects/adrenalinechallenge/index.html",
     "imgSrc": "projects/adrenalinechallenge/adrenalinechallenge.jpg",

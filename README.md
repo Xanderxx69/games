@@ -19,7 +19,7 @@ Welcome to 3kh0 lite, a lightweight, fast, clean game site.
 This site is supposed to be simple yet extendable. You can edit this to your heart's content, but I respectfully ask that you credit me somehow.
 1. Fork this repo (give star pls :D)
 2. Edit the files. (mainly the files in the `config` folder)
-3. Optionally, add more games. ([Get some here](https://gitlab.com/3kh0/3kh0-assets)) ([Or here](https://archive.org/download/armorgames))
+3. Optionally, add more games. ([Get some here (Ekh0 Assets)](https://gitlab.com/3kh0/3kh0-assets)) ([Or here (ArmorGames Archive)](https://archive.org/download/armorgames))
 4. Host it on your server or any static web host.
 5. Enjoy!
 
